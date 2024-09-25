@@ -22,7 +22,7 @@
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
 		<apache-spark.version>3.4.0</apache-spark.version>
-		<hadoop.version>3.3.5</hadoop.version>
+		<hadoop.version>3.4.0</hadoop.version>
 	</properties>
 	<dependencies>
 		<dependency>
